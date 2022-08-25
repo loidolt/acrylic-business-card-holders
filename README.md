@@ -1,6 +1,6 @@
 ---
 published: true
-status: in_progress/complete/archived
+status: complete
 date: 09/30/2018
 tags: CNC
 description: These acrylic business card holders we’re made for Cassidy Design, a home design company in Colorado Springs.
