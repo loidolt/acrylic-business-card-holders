@@ -1,53 +1,28 @@
 ---
 published: true
 status: in_progress/complete/archived
-date: 10/19/2018
-tags: tagname
-description:
-slug: title-kebab-case
+date: 09/30/2018
+tags: CNC
+description: These acrylic business card holders we’re made for Cassidy Design, a home design company in Colorado Springs.
+slug: acrylic-business-card-holders
 ---
-# Title
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Acrylic Business Card Holders
+These acrylic business card holders we’re made for Cassidy Design, a home design company in Colorado Springs.
 
 ## Table of Contents
-- [Title](#title)
+- [Acrylic Business Card Holders](#acrylic-business-card-holders)
   - [Table of Contents](#table-of-contents)
   - [General Info](#general-info)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Usage](#usage)
-  - [Notes](#notes)
   - [Sources](#sources)
 
 ## General Info
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+These acrylic business card holders we’re made for Cassidy Design, a home design company in Colorado Springs. The owner wanted a way to display her business cards more prominently during open house events and walkthroughs.
+
+The design uses two square pieces of 1/2 inch acrylic held together with magnets. One side has a pocket to index the business card and the other is flat. All cut surfaces were sanded and flame polished to bring back an optically clear edge.
 
 ## Technologies
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-## Notes
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+- Fusion 360
 
 ## Sources
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- https://www.cassidy-design.com
